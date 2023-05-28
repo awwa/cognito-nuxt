@@ -43,5 +43,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ## プロジェクト構築手順
 
-1. [Nuxtプロジェクト作成](https://nuxt.com/docs/getting-started/installation)
-2. [Vuetify設定](https://zenn.dev/coedo/articles/nuxt3-vuetify3)
+1. [Nuxt プロジェクト作成](https://nuxt.com/docs/getting-started/installation)
+2. [Vuetify 設定](https://zenn.dev/coedo/articles/nuxt3-vuetify3)
